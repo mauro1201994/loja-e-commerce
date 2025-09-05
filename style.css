@@ -1,0 +1,127 @@
+html {
+  scroll-padding-top: 90px; 
+  scroll-behavior: smooth; 
+}
+
+body {
+  background-image: url(../loja/imagens/fundo.png);
+  background-color: #1C1C1C;
+  font-family: 'Arial', sans-serif;
+  color: #fff;
+  padding-top: 70px;
+}
+.navbar-dark .nav-link {
+  color: #ffc107 !important;
+  font-weight: bold;
+}
+
+.navbar-dark .nav-link:hover {
+  color: #fff !important; 
+  text-decoration: underline;
+}
+
+
+.navbar {
+  border-bottom: 3px solid #696969;
+}
+h2 {
+  color: #DAA520;
+  font-weight: bold;
+}
+
+.card {
+  border: 2px solid #dee2e6;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.03);
+  border-color: #ffc107;
+    z-index: 10;
+  position: relative;
+}
+
+footer {
+  background-color: #212529;
+  color: #fff;
+}
+
+.btn-dark {
+  background-color: #343a40;
+  border: none;
+}
+
+.btn-dark:hover {
+  background-color: #ffc107;
+  color: #000;
+}
+.carousel-item {
+  overflow: visible;
+}
+.carousel-inner {
+  overflow: visible !important; /* apenas se necessário */
+}
+#social1 {
+    color:#000;
+    border: solid 1px #DAA520;
+    font-size: 24px;
+    border-radius: 15px;
+    margin: 30px auto 50px auto; 
+    height: 300px;
+    text-align: center;
+    width: 100%; 
+    max-width: 400px;
+    background-color: #FFFFFF;
+    background-image: url(../loja/imagens/instagram.png);
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#social2 {
+    color:#000;
+    border: solid 1px #DAA520;
+    font-size: 20px;
+    border-radius: 15px;
+    margin: 30px auto 50px auto; 
+    height: 300px;
+    padding: 70px;
+    width: 100%; 
+    max-width: 400px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    padding-top: 1px;
+    background-color: #FFFFFF;
+    background-image: url(../loja/imagens/facebook.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#social3 {
+    color:#000;
+    border: solid 1px #DAA520;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    border-radius: 15px;
+    margin: 30px auto 50px auto; 
+    height: 300px;
+    width: 100%; 
+    max-width: 400px;
+    background-color: #FFFFFF;
+    background-image: url(../loja/imagens/email.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.titulo-centralizado {
+  text-align: center;
+}
+
+
+
+
