@@ -1,3 +1,5 @@
+<img width="944" height="473" alt="loja" src="https://github.com/user-attachments/assets/131ea1e5-8789-4137-93ee-67ac418ee207" />
+
 🧰 Tecnologias utilizadas
 
 HTML5 – Estrutura da página
